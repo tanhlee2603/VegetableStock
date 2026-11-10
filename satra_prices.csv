@@ -1,0 +1,35 @@
+﻿date,time,store_id,store_group,category,group,product_id,sku,name,brand,unit,price,sys_price,discount_percent,promotion_type,stock_qty,total_in_category,all_prices_json,pack_qty,unit_price,unit_basis
+2026-11-07,20:31,online,,rau-cu,nong_san,181,61415,CỦ SẮN,,Kg,23500,23500,0,,,23,"[{""unit"": ""Kg"", ""price"": 23500, ""old_price"": null, ""badge"": null}]",1.0,23500,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,1522,198750,RAU MUỐNG NƯỚC SATRA VIETGAP GÓI 450G,,Gói,14000,14000,0,,,23,"[{""unit"": ""Gói"", ""price"": 14000, ""old_price"": null, ""badge"": null}]",0.45,31111,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,1521,198819,RAU NGÓT GÓI 300GR,,Gói,18500,18500,0,,,23,"[{""unit"": ""Gói"", ""price"": 18500, ""old_price"": null, ""badge"": null}]",0.3,61667,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,593,61424,ĐẬU BẮP,,Kg,37300,37300,0,,,23,"[{""unit"": ""Kg"", ""price"": 37300, ""old_price"": null, ""badge"": null}]",1.0,37300,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,588,62521,BÍ RỢ ĐỎ ĐÀ LẠT VIETGAP,,Kg,32000,32000,0,,,23,"[{""unit"": ""Kg"", ""price"": 32000, ""old_price"": null, ""badge"": null}]",1.0,32000,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,298,62573,HÀNH LÁ LÀM SẠCH,,Kg,97000,97000,0,,,23,"[{""unit"": ""Kg"", ""price"": 97000, ""old_price"": null, ""badge"": null}]",1.0,97000,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,294,61407,CHANH KHÔNG HẠT 12-16T,,Kg,35900,35900,0,,,23,"[{""unit"": ""Kg"", ""price"": 35900, ""old_price"": null, ""badge"": null}]",1.0,35900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,256,273455,THƠM TRÁI NGUYÊN VỎ 0.9-1.1K,,Trái,26200,26200,0,,,23,"[{""unit"": ""Trái"", ""price"": 26200, ""old_price"": null, ""badge"": null}]",1.0,26200,Trái
+2026-11-07,20:31,online,,rau-cu,nong_san,205,61448,KHOAI MÔN SỌ,,Kg,55000,55000,0,,,23,"[{""unit"": ""Kg"", ""price"": 55000, ""old_price"": null, ""badge"": null}]",1.0,55000,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,187,61428,ĐẬU COVE TRẮNG VIETGAP,,Kg,53900,53900,0,,,23,"[{""unit"": ""Kg"", ""price"": 53900, ""old_price"": null, ""badge"": null}]",1.0,53900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,179,61413,CỦ CẢI TRẮNG VIETGAP 3-5C,,Kg,26500,26500,0,,,23,"[{""unit"": ""Kg"", ""price"": 26500, ""old_price"": null, ""badge"": null}]",1.0,26500,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,130,61384,CÀ TÍM VIETGAP,,Kg,27900,27900,0,,,23,"[{""unit"": ""Kg"", ""price"": 27900, ""old_price"": null, ""badge"": null}]",1.0,27900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,129,62525,CÀ RỐT ĐÀ LẠT VIETGAP,,Kg,45000,45000,0,,,23,"[{""unit"": ""Kg"", ""price"": 45000, ""old_price"": null, ""badge"": null}]",1.0,45000,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,116,62558,BÔNG CẢI XANH VIETGAP,,Kg,59900,59900,0,,,23,"[{""unit"": ""Kg"", ""price"": 59900, ""old_price"": null, ""badge"": null}]",1.0,59900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,110,61359,BẦU SAO,,Kg,24900,24900,0,,,23,"[{""unit"": ""Kg"", ""price"": 24900, ""old_price"": null, ""badge"": null}]",1.0,24900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,106,61356,BẮP CẢI TRẮNG VIETGAP 1-1.8K,,Kg,21500,21500,0,,,23,"[{""unit"": ""Kg"", ""price"": 21500, ""old_price"": null, ""badge"": null}]",1.0,21500,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,105,61355,BẮP CẢI TRÁI TIM VIETGAP,,Kg,34900,34900,0,,,23,"[{""unit"": ""Kg"", ""price"": 34900, ""old_price"": null, ""badge"": null}]",1.0,34900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,103,61353,BẮP CẢI THẢO VIETGAP 0.7-1.2K,,Kg,29900,29900,0,sale,,23,"[{""unit"": ""Kg"", ""price"": 29900, ""old_price"": 29900, ""badge"": ""-0%""}]",1.0,29900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,28,198810,RAU DỀN SATRA VIETGAP GÓI 450GR,,Gói,20900,20900,0,,,23,"[{""unit"": ""Gói"", ""price"": 20900, ""old_price"": null, ""badge"": null}]",0.45,46444,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,280,61513,XÀ LÁCH LOLO XANH VIETGAP,,Kg,45000,45000,0,,,23,"[{""unit"": ""Kg"", ""price"": 45000, ""old_price"": null, ""badge"": null}]",1.0,45000,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,587,61361,BÍ ĐAO XANH,,Kg,24900,24900,0,,,23,"[{""unit"": ""Kg"", ""price"": 24900, ""old_price"": null, ""badge"": null}]",1.0,24900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,123,61378,CÀ CHUA ANA VIETGAP 8-10T,,Kg,53900,53900,0,,,23,"[{""unit"": ""Kg"", ""price"": 53900, ""old_price"": null, ""badge"": null}]",1.0,53900,kg
+2026-11-07,20:31,online,,rau-cu,nong_san,25,61418,DƯA LEO VIETGAP 6-10T,,Kg,38000,38000,0,,,23,"[{""unit"": ""Kg"", ""price"": 38000, ""old_price"": null, ""badge"": null}]",1.0,38000,kg
+2026-11-07,20:31,online,,trai-cay-noi,nong_san,74,61641,XOÀI KEO,,Kg,19900,19900,0,,,3,"[{""unit"": ""Kg"", ""price"": 19900, ""old_price"": null, ""badge"": null}]",1.0,19900,kg
+2026-11-07,20:31,online,,trai-cay-noi,nong_san,1610,61656,CHUỐI UNIFARM,,Kg,35900,35900,0,,,3,"[{""unit"": ""Kg"", ""price"": 35900, ""old_price"": null, ""badge"": null}]",1.0,35900,kg
+2026-11-07,20:31,online,,trai-cay-noi,nong_san,1720,277500,DƯA HÀ LAN RUỘT XANH 0.8K UP,,Trái,38900,38900,0,,,3,"[{""unit"": ""Trái"", ""price"": 38900, ""old_price"": null, ""badge"": null}]",1.0,38900,Trái
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,338,61966,CÁ BASA KHÔNG ĐẦU,,Kg,68000,68000,0,,,8,"[{""unit"": ""Kg"", ""price"": 68000, ""old_price"": null, ""badge"": null}]",1.0,68000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,367,61732,CÁ CƠM,,Kg,110000,110000,0,,,8,"[{""unit"": ""Kg"", ""price"": 110000, ""old_price"": null, ""badge"": null}]",1.0,110000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,368,61865,CÁ ĐIÊU HỒNG SỐNG 0.5-0.8KG,,Kg,89000,89000,0,,,8,"[{""unit"": ""Kg"", ""price"": 89000, ""old_price"": null, ""badge"": null}]",1.0,89000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,395,61764,CÁ NGỪ BÔNG 0.3-0.6K,,Kg,109000,109000,0,,,8,"[{""unit"": ""Kg"", ""price"": 109000, ""old_price"": null, ""badge"": null}]",1.0,109000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,434,61795,ẾCH SỐNG LÀM SẠCH 10-12C,,Kg,142000,142000,0,,,8,"[{""unit"": ""Kg"", ""price"": 142000, ""old_price"": null, ""badge"": null}]",1.0,142000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,450,61959,TÉP BẠC NC 50-60C,,Kg,223000,223000,0,,,8,"[{""unit"": ""Kg"", ""price"": 223000, ""old_price"": null, ""badge"": null}]",1.0,223000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,586,61754,CÁ LÓC ĐEN LÀM SẠCH,,Kg,115000,115000,0,,,8,"[{""unit"": ""Kg"", ""price"": 115000, ""old_price"": null, ""badge"": null}]",1.0,115000,kg
+2026-11-07,20:31,online,,thuy-hai-san,ca_hai_san,637,61789,CÒI ỐC BƯƠU,,Kg,70000,70000,0,,,8,"[{""unit"": ""Kg"", ""price"": 70000, ""old_price"": null, ""badge"": null}]",1.0,70000,kg
