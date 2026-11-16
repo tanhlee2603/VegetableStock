@@ -1,0 +1,10 @@
+variable,level_r,diff_r_lag0,diff_r_lag1
+London futures (converted),0.977,0.159,0.402
+USD/VND exchange rate,0.872,0.053,0.012
+Brent crude (converted),0.284,-0.018,0.02
+WTI crude (converted),0.295,-0.039,0.025
+RON95 retail,0.08,0.018,-0.005
+E5RON92 retail,0.124,0.024,-0.004
+Diesel retail,0.227,0.017,-0.014
+Kerosene retail,0.31,0.031,-0.002
+Mean temperature,0.109,0.03,0.031

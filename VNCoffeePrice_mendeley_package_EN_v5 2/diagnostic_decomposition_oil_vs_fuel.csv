@@ -1,0 +1,5 @@
+variant,MAE,DM_stat_vs_naive,DM_pvalue
+own_lag+london+fx+weather (baseline combo),719.3,6.655,0.0
++ world oil only,755.2,5.868,0.0
++ VN retail fuel only,1138.6,-3.452,0.0006
++ world oil + VN retail fuel (Full),1134.7,-3.415,0.0006

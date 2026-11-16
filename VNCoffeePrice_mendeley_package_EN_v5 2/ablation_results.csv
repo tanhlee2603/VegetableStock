@@ -1,0 +1,18 @@
+feature_group,model,MAE,RMSE,MAPE%,sMAPE%,DM_stat_vs_naive,DM_pvalue,significant_better_than_naive(p<0.05)
+(baseline),Naive persistence,960.3,1340.1,1.043,1.039,,,
+own_lag_only,LinearRegression,990.2,1378.7,1.076,1.07,-3.384,0.0007,False
+own_lag_only,RandomForest,1192.4,2024.7,1.284,1.292,-1.966,0.0493,False
+own_lag+london,LinearRegression,713.9,1033.5,0.774,0.771,6.948,0.0,True
+own_lag+london,RandomForest,686.6,1198.1,0.74,0.742,1.316,0.1881,False
+own_lag+fx,LinearRegression,1002.2,1385.8,1.088,1.082,-4.252,0.0,False
+own_lag+fx,RandomForest,1156.7,1875.1,1.248,1.254,-2.928,0.0034,False
+own_lag+weather,LinearRegression,980.6,1372.8,1.066,1.06,-3.003,0.0027,False
+own_lag+weather,RandomForest,1194.0,2018.6,1.286,1.294,-2.004,0.045,False
+own_lag+world_oil,LinearRegression,1014.1,1436.4,1.103,1.097,-3.146,0.0017,False
+own_lag+world_oil,RandomForest,1315.2,2041.7,1.426,1.431,-2.748,0.006,False
+own_lag+vn_fuel,LinearRegression,1604.6,2868.1,1.743,1.734,-3.98,0.0001,False
+own_lag+vn_fuel,RandomForest,1622.8,2887.4,1.752,1.728,-4.43,0.0,False
+own_lag+london+fx+weather,LinearRegression,719.3,1038.7,0.778,0.776,6.655,0.0,True
+own_lag+london+fx+weather,RandomForest,693.1,1196.7,0.748,0.749,1.412,0.1581,False
+full (+world_oil+vn_fuel),LinearRegression,1134.7,1843.2,1.232,1.228,-3.415,0.0006,False
+full (+world_oil+vn_fuel),RandomForest,863.6,1394.9,0.931,0.931,-0.611,0.5415,False
